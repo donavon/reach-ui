@@ -111,7 +111,7 @@
     "match-sorter": "^4.1.0",
     "mri": "^1.1.5",
     "ora": "^3.4.0",
-    "patch-package": "^6.2.2",
+    "patch-package": "^6.4.6",
     "postinstall-postinstall": "^2.1.0",
     "prettier": "^2.0.5",
     "pretty-quick": "^2.0.1",
